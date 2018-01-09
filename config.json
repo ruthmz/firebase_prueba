@@ -1,0 +1,9 @@
+{
+    "apiKey": "AIzaSyCGeKRr1SZzlRGpK_MZnTrzyfcqWc5W0Y4",
+    "authDomain": "speak-up-b8f55.firebaseapp.com",
+    "databaseURL": "https://speak-up-b8f55.firebaseio.com",
+    "projectId": "speak-up-b8f55",
+    "storageBucket": "speak-up-b8f55.appspot.com",
+    "messagingSenderId": "963815969017"
+}
+  firebase.initializeApp(config);
